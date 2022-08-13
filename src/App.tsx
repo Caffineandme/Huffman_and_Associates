@@ -12,7 +12,10 @@ function App() {
 						name="viewport"
 						content="width=device-width, initial-scale=1, shrink-to-fit=no"
 					/>
-					<meta name="description" content="" />
+					<meta
+						name="description"
+						content="Land Surveying licensed in Missouri. Serving Belton, Raymore, Grandview, Peculiar, Harrisonville, Lee's Summit, Cass County, Jackson County"
+					/>
 					<meta name="author" content="" />
 					<title>Huffman &amp; Associates</title>
 					{/* Favicon*/}
@@ -47,12 +50,16 @@ function App() {
 								<div className="col-xl-6">
 									<div className="text-center text-white">
 										{/* Page heading*/}
-										<h1 className="mb-5">Huffman &amp; Associates</h1>
-										<h1 className="mb-5">Land Surveyors</h1>
+										<h1 className="mb-5">
+											Huffman &amp; Associates
+											<br></br>
+											Land Surveyors
+										</h1>
+
 										<div className="row">
 											<div className="col">
-												<h1 className="mb-5">Belton Missouri</h1>
-												<h1 className="mb-5">816-322-4544</h1>
+												<h2 className="mb-5">Belton Missouri</h2>
+												<h2 className="mb-5">816-322-4544</h2>
 											</div>
 										</div>
 									</div>
@@ -96,7 +103,7 @@ function App() {
 										<div className="features-icons-icon d-flex">
 											<i className="bi bi-pin-map m-auto text-primary" />
 										</div>
-										<h3>Property Lines</h3>
+										<h2>Property Lines</h2>
 										<p className="lead mb-0">
 											Location of property corners and property line staking for
 											fence lines and other building requirements.
@@ -108,7 +115,7 @@ function App() {
 										<div className="features-icons-icon d-flex">
 											<i className="bi-layers m-auto text-primary" />
 										</div>
-										<h3>Plot Plans and Drafting</h3>
+										<h2>Plot Plans and Drafting</h2>
 										<p className="lead mb-0">
 											Topography and plot plan drafting for commercial or
 											residential construction. Lot division and deed rewrites.
@@ -120,8 +127,10 @@ function App() {
 										<div className="features-icons-icon d-flex">
 											<i className="bi bi-building m-auto text-primary" />
 										</div>
-										<h3>Construction</h3>
-										<p className="lead mb-0">Your words here</p>
+										<h2>Construction</h2>
+										<p className="lead mb-0">
+											New construction plotting and planning
+										</p>
 									</div>
 								</div>
 							</div>
