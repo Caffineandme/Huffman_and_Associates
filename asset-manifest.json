@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Huffman_and_Associates/static/css/main.72eb402c.css",
-    "main.js": "/Huffman_and_Associates/static/js/main.2aedd897.js",
+    "main.js": "/Huffman_and_Associates/static/js/main.8e4f041d.js",
     "static/js/787.4bc90df8.chunk.js": "/Huffman_and_Associates/static/js/787.4bc90df8.chunk.js",
     "static/media/bg-masthead.jpg": "/Huffman_and_Associates/static/media/bg-masthead.2d8cab3ee7c26784f592.jpg",
     "index.html": "/Huffman_and_Associates/index.html",
     "main.72eb402c.css.map": "/Huffman_and_Associates/static/css/main.72eb402c.css.map",
-    "main.2aedd897.js.map": "/Huffman_and_Associates/static/js/main.2aedd897.js.map",
+    "main.8e4f041d.js.map": "/Huffman_and_Associates/static/js/main.8e4f041d.js.map",
     "787.4bc90df8.chunk.js.map": "/Huffman_and_Associates/static/js/787.4bc90df8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72eb402c.css",
-    "static/js/main.2aedd897.js"
+    "static/js/main.8e4f041d.js"
   ]
 }
